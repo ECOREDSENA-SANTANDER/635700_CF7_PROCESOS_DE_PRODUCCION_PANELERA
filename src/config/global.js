@@ -86,6 +86,12 @@ export default {
             titulo: 'Normativa de salud y seguridad en el trabajo',
             hash: 't_2_4',
           },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.5',
+            titulo: 'Riesgos laborales',
+            hash: 't_2_5',
+          },
         ],
       },
     ],

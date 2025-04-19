@@ -58,10 +58,12 @@
 
               figure
                 img(src='@/assets/curso/temas/tema1/c5.png') 
-    ul.lista-ul--color
-      li
-        i.fas.fa-leaf(style="color: #e2872c")
-        h4 Panela como producto final
+    
+    separador
+    #t_1_1.titulo-segundo.mb-4
+      h4.fas.fa-leaf(style="color: #e2872c") 
+      span.titulo  1.1 Panela como producto final
+    
     .row.justify-content-center.align-items-start.mb-5
       .col-lg-8
         p.mb-5 La panela es el producto final que se logra después de una serie de pasos donde se transforma el zumo de la caña de azúcar, hasta convertirlo en ese rico y nutritivo alimento de formas definidas en color, textura y dureza, que se determinan por las diversas etapas del proceso. Es considerado como un producto natural de alta pureza, libre de desechos, sustancias químicas o aditivos y microorganismos como hongos y levadura. También es reconocida por ser una fuente alta de energía pues su principal ingrediente es extraído de la caña de azúcar; es de acotar que la sacarosa es una sustancia que el organismo metaboliza fácilmente para llevar a cabo los procesos vitales; dentro de su constitución, también se encuentran vitaminas y minerales, (Amanda & Marcillo, 2002).
@@ -113,10 +115,11 @@
                   a.boton.color-acento-botones.texto-blanco(:href="('https://www.youtube.com/watch?v=yi866Z1roq8 ')" target="_blank")
                     span Enlace
                     i.fas.fa-link       
-    ul.lista-ul--color
-      li
-        i.fas.fa-leaf(style="color: #e2872c")
-        h4 Conservación
+    separador
+    #t_1_1.titulo-segundo.mb-4
+      h4.fas.fa-leaf(style="color: #e2872c") 
+      span.titulo  1.2 Conservación
+
     p.mb-5 Como cualquier producto para el consumo humano, la panela requiere procesos y mecanismos de conservación. Eso implica pensar, además de su elaboración, en su empaque, almacenamiento y distribución.
       br
       br

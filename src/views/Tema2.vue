@@ -46,10 +46,11 @@
 
     br
     br
-    ul.lista-ul--color
-      li
-        i.fas.fa-leaf(style="color: #e2872c")
-        h4 Manejo de plagas
+    separador
+    #t_2_1.titulo-segundo.mb-4
+      h4.fas.fa-leaf(style="color: #e2872c") 
+      span.titulo  2.1 Manejo de plagas
+       
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
@@ -63,10 +64,11 @@
       .col-lg-10
         .cajon.color-acento-botones.fnd-6.p-4.mb-4
           p La panela es considerada como un endulzante artesanal, proveniente de la caña de azúcar (Saccharum ofcinarum), este es transformado en trapiches como una actividad económica, la cual debe tener el cumplimiento de los requisitos sanitarios para la elaboración y el cumplimento de acuerdo con las condiciones que exigen en materia de infraestructura (las instalaciones, áreas de procesos y sanitarias). Esto es cobijado ante resoluciones del Ministerio de la Protección Social como la ley 4121 del 2011 “requisitos para la producción y comercialización de la panela en el territorio nacional”, (Gallego, 2020). 
-    ul.lista-ul--color
-      li
-        i.fas.fa-leaf(style="color: #e2872c")
-        h4 Riesgos biológicos, químicos y físicos, de contaminación
+    separador
+    #t_2_2.titulo-segundo.mb-4
+      h4.fas.fa-leaf(style="color: #e2872c") 
+      span.titulo  2.2 Riesgos biológicos, químicos y físicos, de contaminación
+
     p Algunos riesgos biológicos, químicos y físicos que pueden dañar el producto panelero, son:  
 
     SlyderF.mb-5.row(columnas="col-lg-6 col-xl-4").slyder-100
@@ -96,10 +98,11 @@
             img.img-150.img-t(src='@/assets/curso/temas/tema2/img-8.svg' alt='AvatarTop')
         p.text-center.px-4 Es de acotar que la humedad no sólo afecta este artículo, dado que cuando la panela tiene azucares reductores en alta densidad y contenidos mínimos de sacarosa también puede presentar alteraciones. 	
 
-    ul.lista-ul--color
-      li
-        i.fas.fa-leaf(style="color: #e2872c")
-        h4  Agua en los procesos paneleros
+    separador
+    #t_2_3.titulo-segundo.mb-4
+      h4.fas.fa-leaf(style="color: #e2872c") 
+      span.titulo  2.3 Agua en los procesos paneleros
+   
 
     .row.justify-content-center.mb-5 
         .col-lg-10
@@ -148,10 +151,11 @@
                     i.fas.fa-link    
 
 
-    ul.lista-ul--color
-      li
-        i.fas.fa-leaf(style="color: #e2872c")
-        h4  Normativa de salud y seguridad en el trabajo
+    separador
+    #t_2_4.titulo-segundo.mb-4
+      h4.fas.fa-leaf(style="color: #e2872c") 
+      span.titulo  2.4 Normativa de salud y seguridad en el trabajo
+
     p.mb-5(data-aos='fade-right') El sector de producción de panela, como cualquier otro sector productivo, debe establecer acciones que aseguren la gestión de la salud y la seguridad en el trabajo. Como es de suponer, es la normativa vigente la que regula y orienta tales procesos y ofrece mecanismos de aplicación.
       br
       br
@@ -230,10 +234,11 @@
             .col-md-4
               figure
                 img(src='@/assets/curso/temas/tema2/img-20.png')
-    ul.lista-ul--color
-      li
-        i.fas.fa-leaf(style="color: #e2872c")
-        h4 Riesgos laborales 
+    separador
+    #t_2_5.titulo-segundo.mb-4
+      h4.fas.fa-leaf(style="color: #e2872c") 
+      span.titulo  2.5 Riesgos laborales 
+
     .row.justify-content-center.mb-5
       .col-lg-2: img(src='@/assets/curso/temas/tema2/c2.svg', alt='')
       .col-lg-10 
