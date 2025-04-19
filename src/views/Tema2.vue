@@ -9,7 +9,7 @@
       h1 Adecuación del producto 
 
     .row.justify-content-center.mb-5 
-      .col-lg-5
+      .col-lg-5.col-9.col-md-6
         figure
           img(src='@/assets/curso/temas/tema2/c1.png')    
       .col-lg-7 
@@ -56,7 +56,7 @@
       .col-lg-8
         p Los trapiches o microempresas productoras de la panela, deben tener condiciones óptimas para la manipulación en los diferentes aspectos, dado a la exigencia de las normas que son de obligatorio cumplimiento y son exigidas para garantizar la fabricación de productos inocuos para el cliente y de este modo se puedan consumir sin presentar ningún tipo de riesgo a la salud. El cumplimiento de las buenas prácticas de manufactura, beneficia las actividades de los operarios y trabajadores de este sector, logrando una producción segura, minimizando la contingencia de artículos defectuosos tanto en composición y apariencia. 
         p Las condiciones normativas además de prologar la calidad del alimento, también permite la reducción de amenaza microbiológica y control de plagas, según lo ordenado en el decreto 1500 del 2007 “todo procedimiento que un establecimiento lleva a cabo diariamente, antes y durante las operaciones para prevenir la contaminación directa del alimento”. 
-      .col-lg-4
+      .col-lg-4.col-9.col-md-8
         figure
           img(src='@/assets/curso/temas/tema2/img-3.png')  
 
@@ -131,7 +131,7 @@
           .row(titulo="Protección del ambiente y acciones sostenibles")
             p La industria panelera debe velar por el cuidado ambiental, contando con acciones que velen por el cuidado del agua, donde los ríos sigan su curso y los lagos o lagunas permanezcan libres de sedimentos paneleros y preserven el caudal y cantidad, también se debe evitar la deforestación de zonas próximas a los trapiches. La concientización de la población debe ser constante a través de actividades permanentes sobre la protección de la naturaleza, especialmente los recursos hídricos, dado las consecuencias que trae para los procesos de tecnificación, además de multas económicas.
 
-      .col-lg-4
+      .col-lg-4.col-9.col-md-6
         figure
           img(src='@/assets/curso/temas/tema2/img-10.png') 
 
@@ -171,32 +171,32 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12.fnd-1.tarjeta.p-5(style="background-color: #ecfffc ")
         SlyderA(tipo='b')
-          .row
-            .col-md-8.mb-4.mb-md-0.px-5
+          .row.justify-content-center
+            .col-md-12.mb-4.mb-md-0.px-5.col-lg-8
               h3 Prevención de riesgos laborales en el trapiche panelero
               p Los trapiches paneleros son empresas que brindan opción de trabajo a las familias colombianas, estas ofertas van desde la siembra y cosecha de la caña de azúcar, hasta la producción de la panela, todo esto es gracias al proceso de transformación del jugo de la caña en derivados, que constituyen alimentos básicos para los hogares y también para mover la economía de la región y del país. Las actividades que conducen a la fabricación de tal comestible, conllevan situaciones de riesgo para la salud humana y la integridad física, dado a la exposición  a herramientas cortopunzantes, animales, fuego, elevadas temperaturas, vapores, entre otros factores para que las personas realicen las labores de forma adecuada; por ello es necesario que cada uno cuente con las condiciones necesarias para preservar la salud e integridad mientras trabajan, porque sin salud no hay trabajo, sin trabajo no hay producción y sin producción no hay ingresos (Cundinamarca, 2016).  
               p Por tal razón, es de obligatorio que los encargados de los trapiches tomen conciencia de ofrecer las condiciones mínimas, para la amparar la seguridad, la salud y la vida, custodiando que se apliquen las medidas y recomendaciones para lograrlo y así evitar enfermedades y accidentes, garantizando la producción, el bienestar de los productores, trabajadores y las familias. 
               p Dentro de los conceptos para tener en cuenta están: 
-            .col-md-4
+            .col-md-5.col-lg-4
               figure
                 img(src='@/assets/curso/temas/tema2/img-14.png')
-          .row
-            .col-md-8.mb-4.mb-md-0.px-5
+          .row.justify-content-center
+            .col-md-12.mb-4.mb-md-0.px-5.col-lg-8
               h3 Salud laboral u ocupacional 
               p Hace referencia al bienestar del empleado, además busca protegerlo de posibles accidentes durante la ejecución de las labores cotidianas. Las tácticas se encaminan en propagar el trabajo seguro y sano para, contando con ambientes óptimos y un excelente lugar de convivencia, donde prevalezca la tranquilidad física, mental y social de los trabajadores, lo que se traduce en mejor desempeño y satisfacción, respaldando el perfeccionamiento y el mantenimiento de las capacidades de las personas. 
               p Dentro de los objetivos de la salud ocupacional, también se menciona el derecho al sano esparcimiento de los trabajadores, donde la economía y el tiempo en familia contribuyan al desarrollo sostenible y personal y de esta manera promover el enriquecimiento humano y profesional, (R. Franco et al., 2007) (Lizarazo et al., 2011). 
-            .col-md-4
+            .col-md-5.col-lg-4
               figure
                 img(src='@/assets/curso/temas/tema2/img-15.png')
-          .row
-            .col-md-8.mb-4.mb-md-0.px-5
+          .row.justify-content-center
+            .col-md-12.mb-4.mb-md-0.px-5.col-lg-8
               h3 Sistema general de riesgos laborales 
               p Se define como el conjunto de entidades públicas y privadas, que cuentan con una serie de normas y procedimientos, orientados a prevenir, proteger y atender los requerimientos de los trabajadores y los posibles efectos de las enfermedades que puedan provocar sus labores y minimizar los accidentes que puedan ocurrir dependiendo de la labor, (Ministerio de Salud y Protección, 2019). 
-            .col-md-4
+            .col-md-5.col-lg-4
               figure
                 img(src='@/assets/curso/temas/tema2/img-16.png')
-          .row
-            .col-md-8.mb-4.mb-md-0.px-5
+          .row.justify-content-center
+            .col-md-12.mb-4.mb-md-0.px-5.col-lg-8
               h3 Factores de riesgo 
               p Se comprende como el conjunto de procesos y técnicas que permiten afrontar la incertidumbre sobre posibles situaciones que puedan afectar la salud de una persona o población, buscando reducir los riesgos o mantener la protección para los trabajadores con niveles aceptables de seguridad laboral. El enfoque de los factores de riesgo se combina simultáneamente de la siguiente manera: 
               ol.lista-ol--cuadro
@@ -208,30 +208,34 @@
                   .lista-ol--cuadro__vineta.mor
                     span b
                   | Medidas mitigables que modifican los efectos de la enfermedad evitando complicaciones (secuelas, discapacidad, incapacidad y muerte) costos para el SGSSS, el paciente y su familia; posibles eventos adversos derivados de la atención médica, afectación de la imagen pública y probales sanciones legales, (Gómez, 2006), 
-            .col-md-4
+            .col-md-5.col-lg-4
               figure
                 img(src='@/assets/curso/temas/tema2/img-17.png')
-          .row
-            .col-md-8.mb-4.mb-md-0.px-5
+          
+          
+          .row.justify-content-center
+            .col-md-12.mb-4.mb-md-0.px-5.col-lg-8
               h3 Elementos de protección personal (EPP)  
               p Son todos los equipos, aparatos o dispositivos que tiene como función principal proteger las diferentes partes del cuerpo de peligros específicos, de accidentes de trabajo o enfermedades laborales (Salud, 2021). 
-            .col-md-4
+            .col-md-5.col-lg-4
               figure
                 img(src='@/assets/curso/temas/tema2/img-18.png')
-          .row
-            .col-md-8.mb-4.mb-md-0.px-5
+
+          .row.justify-content-center
+            .col-md-12.mb-4.mb-md-0.px-5.col-lg-8
               h3 Accidentes de trabajo 
               p Según la Ley 1562 de 2012, Artículo 3: define el accidente de trabajo como todo aquel suceso repentino que acontezca por causa u ocasión desfavorable durante la realización de la actividad laboral y origine en el trabajador una lesión orgánica, una perturbación funcional o psiquiátrica, invalidez o incluso la muerte. 
               p También se considera accidente de trabajo aquella acción fortuita que pueda ocurrir durante la ejecución de órdenes del contratante sobre los mismos, o mientras la ejecución de una labor bajo la autoridad del empleador donde se incluyen las horas laborales o extras dentro o fuera del lugar trabajo. 
               p Igualmente, se considera accidente, los casos fortuitos donde se vea afectada la integridad o salud del trabajador, incluso durante el traslado desde el lugar de residencia hasta el sitio de trabajo o viceversa, si el medio de transporte es suministrado por la empresa (Compañía de Seguros, 2013).
-            .col-md-4
+            .col-md-5.col-lg-4
               figure
                 img(src='@/assets/curso/temas/tema2/img-19.png')
-          .row
-            .col-md-8.mb-4.mb-md-0.px-5
+
+          .row.justify-content-center
+            .col-md-12.mb-4.mb-md-0.px-5.col-lg-8
               h3 Enfermedad laboral 
               p Es definida como aquella que es contraída a causa de la suma de exposiciones a factores de riesgo inherentes a la actividad laboral o medio de trabajo en el que se desempeña (Aristizábal, 2013). 
-            .col-md-4
+            .col-md-5.col-lg-4
               figure
                 img(src='@/assets/curso/temas/tema2/img-20.png')
     separador
@@ -240,7 +244,7 @@
       span.titulo  2.5 Riesgos laborales 
 
     .row.justify-content-center.mb-5
-      .col-lg-2: img(src='@/assets/curso/temas/tema2/c2.svg', alt='')
+      .col-lg-2.col-6.mb-3.col-md-4: img(src='@/assets/curso/temas/tema2/c2.svg', alt='')
       .col-lg-10 
         p También denominados riesgos ocupacionales, trata de aquellas posibilidades de sufrir alguna afectación de orden físico, psicológico, emocional y de salud en general, que se experimentan en el entorno de trabajo, o en actividades directamente relacionadas con el mismo.
           br
