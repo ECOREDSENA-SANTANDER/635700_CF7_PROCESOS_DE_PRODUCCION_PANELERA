@@ -63,7 +63,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .cajon.color-acento-botones.fnd-6.p-4.mb-4
-          p La panela es considerada como un endulzante artesanal, proveniente de la caña de azúcar (Saccharum ofcinarum), este es transformado en trapiches como una actividad económica, la cual debe tener el cumplimiento de los requisitos sanitarios para la elaboración y el cumplimento de acuerdo con las condiciones que exigen en materia de infraestructura (las instalaciones, áreas de procesos y sanitarias). Esto es cobijado ante resoluciones del Ministerio de la Protección Social como la ley 4121 del 2011 “requisitos para la producción y comercialización de la panela en el territorio nacional”, (Gallego, 2020). 
+          p La panela es considerada como un endulzante artesanal, proveniente de la caña de azúcar (Saccharum ofcinarum), este es transformado en trapiches como una actividad económica, la cual debe tener el cumplimiento de los requisitos sanitarios para la elaboración y el cumplimiento de acuerdo con las condiciones que exigen en materia de infraestructura (las instalaciones, áreas de procesos y sanitarias). Esto es cobijado ante resoluciones del Ministerio de la Protección Social como la ley 4121 del 2011 “requisitos para la producción y comercialización de la panela en el territorio nacional”, (Gallego, 2020). 
     separador
     #t_2_2.titulo-segundo.mb-4
       h4.fas.fa-leaf(style="color: #e2872c") 

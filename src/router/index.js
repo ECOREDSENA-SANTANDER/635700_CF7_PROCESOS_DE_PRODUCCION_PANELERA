@@ -74,7 +74,11 @@ const router = new VueRouter({
     {
       path: '/creditos',
       name: 'creditos',
-      component: Creditos,
+      component: () =>
+        //import(
+        /*'../../node_modules/ecored-base-pkg/src/views/Creditos.vue'
+        //),*/
+        import(/* webpackChunkName: "creditos" */ '../views/Creditos.vue'),
     },
   ],
   scrollBehavior(to, from) {

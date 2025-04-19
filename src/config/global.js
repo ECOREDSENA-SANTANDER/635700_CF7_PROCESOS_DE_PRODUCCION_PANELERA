@@ -100,6 +100,7 @@ export default {
         icono: 'fas fa-sitemap',
         titulo: 'Síntesis',
         nombreRuta: 'sintesis',
+        desarrolloContenidos: true,
       },
       {
         nombreRuta: 'actividad',
@@ -174,13 +175,13 @@ export default {
     {
       referencia:
         'Ministerio de Salud y Protección Social (2019). <em>Dirección de regulación de la operación del aseguramiento en salud, riesgos laborales y pensiones.</em> MINSALUD.',
-      link: 'https://is.gd/p2ngwX',
+      link:
+        'https://www.minsalud.gov.co/proteccionsocial/paginas/aseguramiento.aspx',
     },
     {
       referencia:
         'Sánchez, L. (2021). <em>Gestión integral de los elementos de protección personal (EPP).</em> ',
-      link:
-        'https://www.minsalud.gov.co/Ministerio/Institucional/Procesos%20y%20procedimientos/GTHS02.pdf ',
+      link: 'https://es.scribd.com/document/559736269/epp',
     },
     {
       referencia: 'Sánchez, F. (2001). <em>El agua.</em> IDEAM',

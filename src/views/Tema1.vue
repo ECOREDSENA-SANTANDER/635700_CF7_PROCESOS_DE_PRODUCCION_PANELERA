@@ -66,9 +66,9 @@
     
     .row.justify-content-center.align-items-start.mb-5
       .col-lg-8
-        p.mb-5 La panela es el producto final que se logra después de una serie de pasos donde se transforma el zumo de la caña de azúcar, hasta convertirlo en ese rico y nutritivo alimento de formas definidas en color, textura y dureza, que se determinan por las diversas etapas del proceso. Es considerado como un producto natural de alta pureza, libre de desechos, sustancias químicas o aditivos y microorganismos como hongos y levadura. También es reconocida por ser una fuente alta de energía pues su principal ingrediente es extraído de la caña de azúcar; es de acotar que la sacarosa es una sustancia que el organismo metaboliza fácilmente para llevar a cabo los procesos vitales; dentro de su constitución, también se encuentran vitaminas y minerales, (Amanda & Marcillo, 2002).
+        p.mb-5 La panela es el producto final que se logra después de una serie de pasos donde se transforma el zumo de la caña de azúcar, hasta convertirlo en ese rico y nutritivo alimento de formas definidas en color, textura y dureza, que se determinan por las diversas etapas del proceso. Es considerado como un producto natural de alta pureza, libre de desechos, sustancias químicas o aditivos y microorganismos como hongos y levadura. También es reconocida por ser una fuente alta de energía, pues su principal ingrediente es extraído de la caña de azúcar; es de acotar que la sacarosa es una sustancia que el organismo metaboliza fácilmente para llevar a cabo los procesos vitales; dentro de su constitución, también se encuentran vitaminas y minerales, (Amanda & Marcillo, 2002).
         .cajon.color-acento-contenido.p-4.mb-4.fnd-2 
-          p Las técnicas de producción pueden ser consideradas como arte debido a la transformación habitual; sin embargo, cumple con los requerimientos tradicionales de las familias rurales y las necesidades alimentarias por el elevado consumo por habitante, ya que en promedio de 23 kg de panela se gasta al año una sola persona. dentro de la fabricación participan individuos con algún grado de consanguinidad, en la mayoría de los casos de origen campesino que son quienes brindan la mano de obra, procesamiento y consumo, (Franco D, 2011).
+          p Las técnicas de producción pueden ser consideradas como arte debido a la transformación habitual; sin embargo, cumple con los requerimientos tradicionales de las familias rurales y las necesidades alimentarias por el elevado consumo por habitante, ya que en promedio de 23 kg de panela se gasta al año una sola persona. dentro de la fabricación participan individuos con algún grado de consanguinidad, en la mayoría de los casos de origen campesino, que son quienes brindan la mano de obra, procesamiento y consumo, (Franco D, 2011).
       .col-lg-4
         figure
           img(src='@/assets/curso/temas/tema1/img-7.png') 
@@ -165,14 +165,14 @@
             figure.mb-4
               img(src='@/assets/curso/temas/tema1/img-15.png')
           .col-md-8
-            p Una vez asegurado el producto en las bolsas, son transportas y puestas en el túnel de termo encogido donde por acción del calor el empaque se contrae o mejor se adhiere y toma la forma del artículo, de esta manera se puede ajustar ya sea cuadrada, redonda, pulverizada, entre otros. 
+            p Una vez asegurado el producto en las bolsas, son transportas y puestas en el túnel de termo encogido donde por acción del calor, el empaque se contrae o mejor se adhiere y toma la forma del artículo. De esta manera se puede ajustar ya sea cuadrada, redonda, pulverizada, entre otros. 
         .row(titulo="Paso 3")
           .col-md-4.mb-4.mb-md-0
             figure.mb-4
               img(src='@/assets/curso/temas/tema1/img-16.png')
           .col-md-8
             p Una vez, la panela es empacada con los requerimientos técnicos, debe identificarse el producto, por esa razón la rotulación es un paso obligatorio para conocer el origen, las características y los componentes. 
-            p El Gobierno Nacional solicita que los productos tengan registro Invima, por ello la información debe ser específica indicando siempre los siguientes datos:
+            p El Gobierno Nacional solicita que los productos tengan registro INVIMA, por ello la información debe ser específica indicando siempre los siguientes datos:
             p Nombre de quien distribuye, lugar de origen, composición química del alimento, fecha de vencimiento, teléfono, ubicación de la planta procesadora, entre otras características.  
         .row(titulo="Paso 4")
           .col-md-4.mb-4.mb-md-0
@@ -191,7 +191,7 @@
             figure.mb-4
               img(src='@/assets/curso/temas/tema1/img-19.png')
           .col-md-8
-            p Este alimento se almacena en habitaciones cerradas a temperatura ambiente hasta el momento que requiera ser trasportada para la comercialización, debe ser soportada por estructuras limpias de madera. Los almacenes donde se deposita el producto, tienen que construirse con paredes, pisos y techos levantados en materiales resistentes, de fácil limpieza y que permita el acceso a todos los sitios para la desinfección, también se recomiendan acabados en obra blanca que eviten la acumulación de polvo y suciedad.       
+            p Este alimento se almacena en habitaciones cerradas a temperatura ambiente hasta el momento que requiera ser trasportado para la comercialización, debe ser soportada por estructuras limpias de madera. Los almacenes donde se deposita el producto, tienen que construirse con paredes, pisos y techos levantados en materiales resistentes, de fácil limpieza y que permita el acceso a todos los sitios para la desinfección, también se recomiendan acabados en obra blanca que eviten la acumulación de polvo y suciedad.       
         .row(titulo="Paso 7")
           .col-md-4.mb-4.mb-md-0
             figure.mb-4
